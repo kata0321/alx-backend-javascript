@@ -4,8 +4,8 @@
  * @author Ettoufah ayoub <https://github.com/kata0321>
  */
 
-const displayMessage = (msg) -> {
-console.log(msg);
+const displayMessage = (msg) => {
+    console.log(msg);
 };
 
 module.exports = displayMessage;
